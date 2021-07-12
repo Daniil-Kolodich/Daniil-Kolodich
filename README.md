@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Daniil-Kolodich
+- 👀 I’m interested in .NET and GameDev, also general basics of programming
+- 🌱 I’m currently studying in EPAM Systems Lab on .NET
+- 💞️ I’m looking to collaborate on with other companies
+- 📫 How to reach me : danik.kolodich@mail.ru(mail), Daniil Kolodich (Skype)
